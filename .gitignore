@@ -1,0 +1,17 @@
+# Material do professor: somente consulta local
+material_apoio_treinoscript_professor.txt
+/referencias/
+
+# Ambiente e arquivos temporários
+.venv/
+.validacao/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.tmp
+*.log
+.env
+.env.*
+*.pem
+*.key
