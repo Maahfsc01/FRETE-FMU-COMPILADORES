@@ -120,4 +120,3 @@ O painel foi testado no JupyterLab com botões, abas, diagnóstico semântico, c
 - `requirements.txt` — dependências.
 - `.gitignore` — exclusões locais.
 
-O material original do professor, a pasta `.venv` e os checkpoints locais não devem ser publicados. Ainda não houve commit, push ou publicação.
